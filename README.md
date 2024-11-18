@@ -1,3 +1,15 @@
+# Snippet of the notebook ( Scroll below for README.md)
+
+![alt text](notebookImages/image.png)
+
+![alt text](notebookImages/image-1.png)
+
+![alt text](notebookImages/image-2.png)
+
+![alt text](notebookImages/image-3.png)
+
+![alt text](notebookImages/image-4.png)
+
 # Colour Image Classifier using Flux
 
 A deep learning image classifier built with Flux.jl for the CIFAR-10 dataset. This project implements a Convolutional Neural Network (CNN) to classify color images into 10 different categories.
