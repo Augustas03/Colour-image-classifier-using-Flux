@@ -1,0 +1,26 @@
+# Julia
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+/docs/build/
+/docs/site/
+Manifest.toml
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# Julia Memory Files
+*.jls
+
+# Dataset cache
+/data/
